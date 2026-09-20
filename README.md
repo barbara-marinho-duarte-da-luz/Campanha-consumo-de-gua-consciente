@@ -28,28 +28,19 @@ O sistema avalia o tipo de imóvel (`comercial`, `casa` ou `apartamento`) e o vo
 
 ---
 
-## 📁 Estrutura do Repositório
+🚀 Como Executar o Programa
+Opção 1: No Navegador via GitHub Codespaces (Sem Instalar Nada)
+Na página inicial deste repositório, clique no botão verde <> Code.
 
-```text
-├── consumo-agua/
-│   └── app.py
-└── README.md
+Clique na aba Codespaces e depois em Create codespace on main.
 
+Aguarde o VS Code carregar no navegador.
 
+No terminal integrado inferior, execute os comandos:
 
-
-## 🚀 Como Executar o Programa
-
-Você pode executar o script tanto localmente no seu computador quanto direto pelo navegador via GitHub Codespaces.
-
----
-
-### Opção 1: Executar Localmente (Terminal)
-
-#### 📋 Pré-requisitos
-* Ter o **Python 3.x** instalado ([download oficial](https://www.python.org/downloads/)).
-* Git instalado ou baixar os arquivos compactados (`.zip`).
-
+Bash
+cd consumo-agua
+python3 app.py
 #### 🛠️ Passo a Passo
 
 1. Clone o repositório ou faça o download:
