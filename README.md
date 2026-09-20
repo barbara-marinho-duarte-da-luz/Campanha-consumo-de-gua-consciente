@@ -41,8 +41,4 @@ No terminal integrado inferior, execute os comandos:
 Bash
 cd consumo-agua
 python3 app.py
-#### 🛠️ Passo a Passo
 
-1. Clone o repositório ou faça o download:
-   ```bash
-   git clone [https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git](https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git)
