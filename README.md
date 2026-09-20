@@ -35,6 +35,9 @@ O sistema avalia o tipo de imóvel (`comercial`, `casa` ou `apartamento`) e o vo
 │   └── app.py
 └── README.md
 
+
+
+
 ## 🚀 Como Executar o Programa
 
 Você pode executar o script tanto localmente no seu computador quanto direto pelo navegador via GitHub Codespaces.
