@@ -34,3 +34,21 @@ O sistema avalia o tipo de imóvel (`comercial`, `casa` ou `apartamento`) e o vo
 ├── consumo-agua/
 │   └── app.py
 └── README.md
+
+## 🚀 Como Executar o Programa
+
+Você pode executar o script tanto localmente no seu computador quanto direto pelo navegador via GitHub Codespaces.
+
+---
+
+### Opção 1: Executar Localmente (Terminal)
+
+#### 📋 Pré-requisitos
+* Ter o **Python 3.x** instalado ([download oficial](https://www.python.org/downloads/)).
+* Git instalado ou baixar os arquivos compactados (`.zip`).
+
+#### 🛠️ Passo a Passo
+
+1. Clone o repositório ou faça o download:
+   ```bash
+   git clone [https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git](https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git)
