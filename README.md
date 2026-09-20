@@ -29,16 +29,14 @@ O sistema avalia o tipo de imóvel (`comercial`, `casa` ou `apartamento`) e o vo
 ---
 
 🚀 Como Executar o Programa
-Opção 1: No Navegador via GitHub Codespaces (Sem Instalar Nada)
-Na página inicial deste repositório, clique no botão verde <> Code.
 
-Clique na aba Codespaces e depois em Create codespace on main.
-
-Aguarde o VS Code carregar no navegador.
-
-No terminal integrado inferior, execute os comandos:
-
-Bash
-cd consumo-agua
-python3 app.py
+Opção 1: 
+1. No Navegador via GitHub Codespaces (Sem Instalar Nada)
+2. Na página inicial deste repositório, clique no botão verde <> Code.
+3. Clique na aba Codespaces e depois em Create codespace on main.
+4. Aguarde o VS Code carregar no navegador.
+5. No terminal integrado inferior, execute os comandos:
+     Bash
+     cd consumo-agua
+     python3 app.py
 
